@@ -1,0 +1,51 @@
+{
+	com.badlogic.gdx.graphics.Color: {
+	        green: { a: 1, b: 0, g: 1, r: 0 },
+	        white: { a: 1, b: 1, g: 1, r: 1 },
+	        red: { a: 1, b: 0, g: 0, r: 1 },
+	        black: { a: 1, b: 0, g: 0, r: 0 }
+	},
+
+        com.badlogic.gdx.graphics.g2d.BitmapFont: {
+                medium: {file:test.fnt},
+			default: {file:test.fnt}
+        },
+        com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+                default: {
+			down: button_up, up:button,
+                        font: default, fontColor: white
+                }
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	        default: { 
+			font: default, fontColor: white
+		}
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+        	default: {
+			checkboxOn: checkbox_checked, checkboxOff: checkbox,
+			font: default, fontColor: white
+		}
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	        default: {
+			selection: selection, background: textfield, font: default,
+			fontColor: black, cursor: cursor
+		}
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: {
+	        default: {
+			listBackground: default-bg, listSelection: selection,
+			font: default, fontColor: white,
+			background: default-select
+		}
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+		default-horizontal: {
+			background: default-bg, knob: nobb
+		}
+	},
+
+}
