@@ -1,0 +1,146 @@
+
+metatiles1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+metatiles
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+metatiles
+  rotate: false
+  xy: 36, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+
+metatiles2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+metatiles
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+metatiles
+  rotate: false
+  xy: 36, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+
+metatiles3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+metatiles
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+
+metatiles4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+metatiles
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+
+metatiles5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+metatiles
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+
+metatiles6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+metatiles
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+
+metatiles7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+metatiles
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+
+metatiles8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+metatiles
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+
+metatiles9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+metatiles
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+
+metatiles10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+metatiles
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+
+metatiles11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+metatiles
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0

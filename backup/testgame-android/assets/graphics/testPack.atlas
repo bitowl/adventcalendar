@@ -1,0 +1,332 @@
+
+testPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+layer3
+  rotate: false
+  xy: 1, 783
+  size: 1020, 240
+  orig: 1020, 240
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 1, 51
+  size: 450, 730
+  orig: 450, 730
+  offset: 0, 0
+  index: -1
+test
+  rotate: false
+  xy: 453, 269
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+layer1
+  rotate: false
+  xy: 453, 27
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 855, 139
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+mummydown
+  rotate: false
+  xy: 1, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 0
+mummydown
+  rotate: false
+  xy: 51, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 1
+mummydown
+  rotate: false
+  xy: 51, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 3
+mummydown
+  rotate: false
+  xy: 101, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 2
+mummyleft
+  rotate: false
+  xy: 151, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 0
+mummyleft
+  rotate: false
+  xy: 201, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 1
+mummyleft
+  rotate: false
+  xy: 251, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 2
+mummyleft
+  rotate: false
+  xy: 301, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 3
+mummyright
+  rotate: false
+  xy: 351, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 0
+mummyright
+  rotate: false
+  xy: 401, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 1
+ball
+  rotate: false
+  xy: 855, 73
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+mummyright
+  rotate: false
+  xy: 967, 733
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 2
+mummyright
+  rotate: false
+  xy: 921, 89
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 3
+mummyup
+  rotate: false
+  xy: 967, 683
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 0
+mummyup
+  rotate: false
+  xy: 967, 633
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 1
+mummyup
+  rotate: false
+  xy: 967, 583
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 2
+mummyup
+  rotate: false
+  xy: 967, 533
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 3
+expl
+  rotate: false
+  xy: 855, 31
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 0
+expl
+  rotate: false
+  xy: 967, 491
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+expl
+  rotate: false
+  xy: 967, 449
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 10
+expl
+  rotate: false
+  xy: 967, 407
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 11
+expl
+  rotate: false
+  xy: 967, 365
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 12
+expl
+  rotate: false
+  xy: 967, 323
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 13
+expl
+  rotate: false
+  xy: 967, 281
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+expl
+  rotate: false
+  xy: 897, 31
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+expl
+  rotate: false
+  xy: 939, 47
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+expl
+  rotate: false
+  xy: 939, 5
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 5
+expl
+  rotate: false
+  xy: 971, 97
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 6
+expl
+  rotate: false
+  xy: 981, 55
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 7
+expl
+  rotate: false
+  xy: 981, 13
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 8
+player
+  rotate: false
+  xy: 451, 5
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 1009, 503
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+shipleft
+  rotate: false
+  xy: 1009, 473
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: 0
+shipleft
+  rotate: false
+  xy: 1009, 443
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: 1
+shipright
+  rotate: false
+  xy: 1009, 413
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: 0
+shipright
+  rotate: false
+  xy: 1009, 383
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: 1
+enemy
+  rotate: false
+  xy: 985, 254
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+shot
+  rotate: false
+  xy: 921, 78
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+
+testPack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+layer2
+  rotate: false
+  xy: 1, 243
+  size: 600, 240
+  orig: 600, 240
+  offset: 0, 0
+  index: -1
+spacebg
+  rotate: false
+  xy: 1, 1
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+expl
+  rotate: false
+  xy: 603, 443
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 9

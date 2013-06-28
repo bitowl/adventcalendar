@@ -1,0 +1,88 @@
+
+myskin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+small
+  rotate: false
+  xy: 1, 63
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 1, 37
+  size: 24, 24
+  split: 6, 6, 6, 6
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+checkbox
+  rotate: false
+  xy: 1, 37
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+button_up
+  rotate: false
+  xy: 259, 295
+  size: 24, 24
+  split: 6, 6, 6, 6
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+checkbox_checked
+  rotate: false
+  xy: 1, 11
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+default-select
+  rotate: false
+  xy: 27, 37
+  size: 24, 24
+  split: 6, 11, 6, 6
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+textfield
+  rotate: false
+  xy: 259, 269
+  size: 24, 24
+  split: 6, 6, 6, 6
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+nobb
+  rotate: false
+  xy: 285, 303
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 1, 1
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+default-bg
+  rotate: false
+  xy: 27, 33
+  size: 2, 2
+  split: 1, 0, 1, 0
+  pad: 0, 3, 0, 3
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+selection
+  rotate: false
+  xy: 53, 59
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
